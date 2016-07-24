@@ -1,0 +1,23 @@
+module.exports = [
+	{
+		"empId":1000,
+		"empName":"Alice",
+		"empType": "Store Employee"
+	},{
+		"empId":1001,
+		"empName":"Bob",
+		"empType": "Store Member"
+	},{
+		"empId":1002,
+		"empName":"Manoj",
+		"empType": "Others"
+	},{
+		"empId":1003,
+		"empName":"Kushal",
+		"empType": "Store Member"
+	},{
+		"empId":1004,
+		"empName":"Virat",
+		"empType": "Others"
+	}
+]
